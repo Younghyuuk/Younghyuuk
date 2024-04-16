@@ -1,7 +1,7 @@
 # Hi, I'm Andrew Chon 👋
 
 ## About Me
-I'm a senior Computer Science student at the University of Washington Tacoma, graduating in June 2024. I specialize in software development, with a keen interest in artificial intelligence and game design. I love tackling complex problems and turning innovative ideas into real-world applications.
+I'm a senior at the University of Washington Tacoma studying computer science, I will be graduating in June 2024. I specialize in software development, with a keen interest in artificial intelligence and game design. I love tackling complex problems and turning innovative ideas into real-world applications.
 
 🌍  Based in Auburn, WA  
 🖥️  See my portfolio at [ayc-website.vercel.app](https://ayc-website.vercel.app/)  
@@ -11,7 +11,7 @@ I'm a senior Computer Science student at the University of Washington Tacoma, gr
 - **Programming Languages:** Java, JavaScript, Kotlin, R, C, Erlang
 - **Web Technologies:** HTML, CSS, Next.js, Node.js, React
 - **Databases and Backend:** MongoDB, SQL, Express
-- **Concepts:** AI, Game Development, Agile Methodologies Project Management
+- **Concepts:** AI, Game Development, Agile Methodologies, Project Management
 
 ## My Projects
 - **[BioDegen](https://algorithm0r.github.io/BioDegen/)** - A research tool for studying genetic biodegradation, enhancing data collection accuracy.
