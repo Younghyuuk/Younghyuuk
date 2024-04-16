@@ -24,8 +24,8 @@ I'm a senior Computer Science student at the University of Washington Tacoma, gr
 - 👯 I’m looking to collaborate on open source projects related to web development or AI.
 
 ## Let's Connect
-- **LinkedIn:** [andrew-yhk](https://www.linkedin.com/in/andrew-yhk/)
-- **GitHub:** [Younghyuuk](https://github.com/Younghyuuk)
+- :octocat: **GitHub:** [Younghyuuk](https://github.com/Younghyuuk)
+- :briefcase: **LinkedIn:** [andrew-yhk](https://www.linkedin.com/in/andrew-yhk/)
 
 ## Achievements
 - 🏆 2021-2023 Dean's List at the University of Washington Tacoma
