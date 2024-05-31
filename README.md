@@ -8,7 +8,7 @@ I'm a senior at the University of Washington Tacoma studying computer science, I
 ✉️  You can contact me at [Andrewyhchon@gmail.com](mailto:Andrewyhchon@gmail.com)
 
 ## Skills
-- **Programming Languages:** Java, JavaScript, Kotlin, R, C, Erlang
+- **Programming Languages:** Java, JavaScript, TypeScript, Kotlin, R, C, Erlang
 - **Web Technologies:** HTML, CSS, Next.js, Node.js, React
 - **Databases and Backend:** MongoDB, SQL, Express
 - **Concepts:** AI, Game Development, Agile Methodologies, Project Management
